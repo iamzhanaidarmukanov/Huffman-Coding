@@ -22,28 +22,18 @@ For each test case, print the total weighted length of the Huffman codes in a se
 
 **Sample Input**
 
-5
-
-15 7 6 6 5
-
-4
-
-3 4 7 7
-
-6
-
-8 6 5 5 4 3
-
-10
-
-8 1 7 3 6 9 4 2 3 3 
+    5
+    15 7 6 6 5
+    4
+    3 4 7 7
+    6
+    8 6 5 5 4 3
+    10
+    8 1 7 3 6 9 4 2 3 3 
 
 **Sample Output**
 
-87
-
-42
-
-79
-
-144
+    87
+    42
+    79
+    144
